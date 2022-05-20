@@ -1,0 +1,4 @@
+Sitemap: https://jvaverka.github.io/FreedomClassics/sitemap.xml
+
+User-agent: *
+Disallow:
