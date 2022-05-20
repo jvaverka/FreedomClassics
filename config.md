@@ -28,3 +28,9 @@ website_url   = "https://jvaverka.github.io/FreedomClassics"
     @@
   @@
 }
+
+\newcommand{\car}[2]{
+    @@car
+       ![#1](/inventory/!#2.jpg)
+    @@
+}
